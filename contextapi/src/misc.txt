@@ -1,0 +1,4 @@
+// crete a context
+// create a provider 
+// wrap the application in provider
+// use the information anywhere using useContext
